@@ -1,0 +1,14 @@
+{
+  "name": "po-merger",
+  "version": "0.1.0",
+  "description": "Node package for merging .po-files",
+  "main": "index.js",
+  "preferGlobal": true,
+  "scripts": {},
+  "bin": {
+    "poMerge": "index.js"
+  },
+  "keywords": [],
+  "author": "_nonpolynomial",
+  "license": "MIT"
+}
