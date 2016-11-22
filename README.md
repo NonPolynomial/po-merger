@@ -23,7 +23,7 @@ target       --target , -t       save the merge result
 
 print        --print , -p        prints the merge result in console
 
-overwrite    --overwrite , -o    overwrite confilting keys with values from merge file
+overwrite    --overwrite , -o    overwrite conflicting keys with values from merge file
 
 config       --config , -c       defines a config file
                                  if given, other arguments become ignored
